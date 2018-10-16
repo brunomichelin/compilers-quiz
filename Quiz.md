@@ -131,6 +131,7 @@ Exemplo: Javascript.__
 21) O que são linguagens fortemente tipadas e fracamente tipadas? Cite exemplos.
 
 22) O que é um bloco de código?
+__R: os blocos de códigos são determinados a partir da identação do código escrito. um novo bloco de código começa quando há uma nova identação do código. E um bloco de códigos termina na primeira linha de código escrito numa identação anterior. E todas as linhas de códigos que estão no mesmo nível de identação pertecem ao mesmo bloco de código. Algumas outras linguagens (e.g c, c++ , java) fazem a determinação de seus blocos de códigos usando os parenteses {} . ~Gileade Martins.
 
 23) Porque variáveis devem ser inicializadas antes do uso?
 
@@ -151,6 +152,7 @@ __R: SQL é uma linguagem declarativa. Por que você especifica como quer o resu
 30) Qual a diferença do Scanner e Parser?
 
 31) Que tipo de linguagem pode ser reconhecida pela máquina de Turin?
+__R: A linguagens recursivamente enumeráveis ou linguagens tipo 0 podem ser aceitas por uma máquina de Turin. ~Douglas Smigly.
 
 32) Com base na figura abaixo, explique o processo de compilação:
 
@@ -161,6 +163,7 @@ __R: SQL é uma linguagem declarativa. Por que você especifica como quer o resu
 
 
 33) Qual a diferença entre erro de sintaxe e erro semântico?
+__R: Um erro sintático é quando algum elemento daquela instrução está fora do lugar, seja a falta de um terminador de linha, um operador em um lugar não esperado etc, enquanto que os erros semânticos podem acontecer do ponto de vista da máquina(menor chance) e do programador(maior chance). ~Bruno Henrique Michelin Silva.
 
 34) Write a regexp that accepts all strings of a's and b's that do not contain the subsequence “abb”.
 
